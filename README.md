@@ -5,6 +5,7 @@ Techstack used : {MongoDB,Mongoose,Express and NodeJS,ReactJS,TailwindCSS and ty
 
 
 Steps to run this project locally : 
+
 1.Clone this repository
 2.You need run the server locally at your machine by doing => node backend/index.js
 3.Open another terminal and activate the react-app by doing => cd frontend => npm run dev
@@ -12,13 +13,13 @@ Steps to run this project locally :
 5.You might need to generate your own API to fetch results, so please do that, you can use my API but it's pretty useless
 
 
-![Demo 1](demo/demo-1.jpg)
+![Demo 1](demo/demo-1.png)
 
 
-![Demo 2](demo/demo-2.jpg)
+![Demo 2](demo/demo-2.png)
 
 
-![Demo 3](demo/demo-3.jpg)
+![Demo 3](demo/demo-3.png)
 
 
-![Demo 4](demo/demo-4.jpg)
+![Demo 4](demo/demo-4.png)
